@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Test Application</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Navigation Drawer Menu Items -->
+    <string name="navigation_item_0">Website</string>
+    <string name="navigation_item_1">Home</string>
+    <string name="navigation_item_2">About</string>
+    <string name="navigation_item_3">Tuition</string>
+    <string name="navigation_item_4">Contact</string>
+    <string name="navigation_item_5">Blog</string>
+    <string name="navigation_item_6">FAQ</string>
+    <string name="navigation_item_7">App</string>
+    <string name="navigation_item_8">Settings</string>
+    <string name="navigation_item_9">Report A Problem</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>
